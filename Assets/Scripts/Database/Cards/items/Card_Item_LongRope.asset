@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d33a8ff41a11ffb42b196f1a02a88320, type: 3}
+  m_Name: Card_Item_LongRope
+  m_EditorClassIdentifier: 
+  cardName: "\u9577\u3044\u30ED\u30FC\u30D7"
+  cardID: item_longRope
+  cardType: item
+  cardText: "\u306A\u3063\u304C\u3044\u30ED\u30FC\u30D7\u3002\n\u4F55\u304B\u3068\u4F7F\u3044\u3084\u3059\u30442\u3002"
+  cardIllast: {fileID: 21300000, guid: 4748924dd19b886408e18b519b47bbec, type: 3}
+  childCardTypeBlackList:
+  - collectPoint

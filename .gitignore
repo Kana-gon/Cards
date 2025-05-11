@@ -1,0 +1,42 @@
+# Unity auto-generated folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild*/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+MemoryCaptures/
+Recordings/
+
+# Visual Studio and JetBrains project files
+.vs/
+.gradle/
+*.csproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# Crash logs and temporary Unity files
+sysinfo.txt
+*.log
+
+# Ignore all Assets except Scripts, Prefabs, and Scenes
+Assets/*
+!Assets/Scripts/
+!Assets/Prefabs/
+!Assets/Scenes/
+!Assets/Sprites/
+.vscode/*
+Packages/*
+ProjectSettings/*
+# Optional: exclude meta files in case of non-critical tracking
+# *.meta

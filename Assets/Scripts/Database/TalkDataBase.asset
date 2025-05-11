@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 42f8b66d29d447948a1dffa00079828e, type: 3}
+  m_Name: TalkDataBase
+  m_EditorClassIdentifier: 
+  talkList:
+  - {fileID: 11400000, guid: 9c798506daab2a148ab7b8af61c28f63, type: 2}
+  - {fileID: 11400000, guid: 09eee449834eebc4988dc485a7479eba, type: 2}
+  - {fileID: 11400000, guid: c6bb7dc0a1a13b541a11bd3270a4e666, type: 2}
+  - {fileID: 11400000, guid: 32877a2712b06164282bdcbe103be7be, type: 2}
+  - {fileID: 11400000, guid: 73f753a853aa0f24982442394cfd0b52, type: 2}
+  - {fileID: 11400000, guid: f51f7c182b0f00c46b7841662abe33e2, type: 2}
+  - {fileID: 11400000, guid: fb4e0e9298b3d4f44b1b6654f3d82732, type: 2}
+  - {fileID: 11400000, guid: 50b940c80f770d346883b0a81e2b3de5, type: 2}
+  - {fileID: 11400000, guid: 3055c2418df84b8479f8292ccbc83f61, type: 2}
+  - {fileID: 11400000, guid: c8294c1206e0f994f8a6bcaf63163be7, type: 2}
+  - {fileID: 11400000, guid: 1c55ae2c128028947893c0499da632a2, type: 2}
+  - {fileID: 11400000, guid: 56a4e68df55ab784ca0ff099f0c9df5e, type: 2}
+  - {fileID: 11400000, guid: f89e82a5bce9fae47927bacb58b9cef9, type: 2}

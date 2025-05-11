@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d33a8ff41a11ffb42b196f1a02a88320, type: 3}
+  m_Name: Card_NPC_Guid
+  m_EditorClassIdentifier: 
+  cardName: "\u30AC\u30A4\u30C9"
+  cardID: npc_guid
+  cardType: npc
+  cardText: "\u30AC\u30A4\u30C9\u3055\u3093\u3089\u3057\u3044\u3002\n\u8272\u3005\u6559\u3048\u3066\u304F\u308C\u308B\u3002"
+  cardIllast: {fileID: 0}
+  childCardTypeBlackList:
+  - collectPoint
+  - item
+  - craft

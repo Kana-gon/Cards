@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dce0604098f8e4d41b5385c807eeab1d, type: 3}
+  m_Name: Recipe_Rope
+  m_EditorClassIdentifier: 
+  Materials:
+  - itemID: item_grass
+    num: 2
+  product:
+    itemObject: {fileID: 6534571668968789389, guid: d913f47c874ca73439469475192e7952, type: 3}
+    num: 1
+  recipeName: Rope
+  craftCard:
+  - {fileID: 8541727667555946887, guid: c22d8f1fadc020147a27162eeb801e60, type: 3}

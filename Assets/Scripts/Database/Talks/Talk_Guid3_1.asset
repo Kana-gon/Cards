@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3439be1897645fe4c8c1ce25cbfc9246, type: 3}
+  m_Name: Talk_Guid3_1
+  m_EditorClassIdentifier: 
+  talkName: Guid_3_1
+  lineList:
+  - faseSprite: {fileID: 21300000, guid: 9bb05791b35cd0440b3036db96b3f8fd, type: 3}
+    choiceID: 
+    lineText: "\u8CEA\u554F\u306F\u4EE5\u4E0A\u3067\u3059\u304B\uFF1F"
+  - faseSprite: {fileID: 0}
+    choiceID: 
+    lineText: "\u305D\u308C\u3067\u306F\u3001\u6539\u3081\u3066\u3002\n\u79C1\u304B\u3089\u3042\u306A\u305F\u306B\u3001\u3072\u3068\u307E\u305A\u306E\u76EE\u7684\u3092\n\u5DEE\u3057\u4E0A\u3052\u307E\u3057\u3087\u3046\u3002"
+  - faseSprite: {fileID: 0}
+    choiceID: 
+    lineText: "\u307E\u305A\u306F\u2026\u305D\u3046\u3067\u3059\u306D\u3002\n\u5E8A\u3067\u3082\u6398\u3063\u3066\u307F\u307E\u3059\u304B\uFF1F"

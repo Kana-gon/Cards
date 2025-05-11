@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dce0604098f8e4d41b5385c807eeab1d, type: 3}
+  m_Name: Recipe_Null
+  m_EditorClassIdentifier: 
+  Materials:
+  - itemID: null
+    num: 1
+  product:
+    itemObject: {fileID: 7534858663250117864, guid: 4144942159129cb4baaf7069824323c6, type: 3}
+    num: 1
+  recipeName: Null_1
+  craftCard:
+  - {fileID: 7161938860183968537, guid: 51e21d39a95b2aa47a372da55e26fed0, type: 3}
