@@ -7,7 +7,7 @@
 ゲームの実行ファイルは以下のリンクからダウンロードできます。  
 ダウンロード後、解凍して「Cards(仮).exe」を実行してください。
 
-（URL）
+https://drive.google.com/drive/folders/1AOg45RI2tf3h5xm4tWvFBwzl4B19gSOu?usp=drive_link
 
 ## ゲームの現状
 
